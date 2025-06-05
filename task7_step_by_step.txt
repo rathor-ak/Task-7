@@ -1,0 +1,44 @@
+
+Step-by-Step Guide: Task 7 - Identify and Remove Suspicious Browser Extensions
+
+1. Open your browser’s extension/add-ons manager
+   - Chrome: Visit chrome://extensions/
+   - Firefox: Visit about:addons
+
+2. Review all installed extensions carefully
+   - Check each extension: Do you use it? Do you trust it?
+
+3. Check permissions and reviews for each extension
+   - View permissions under 'Details'
+   - Google extension name to read user reviews
+
+4. Identify any unused or suspicious extensions
+   - Unused extensions
+   - Unknown developers
+   - Excessive permissions
+
+5. Remove suspicious or unnecessary extensions
+   - Click 'Remove' or 'Disable'
+   - Confirm removal
+
+6. Restart browser and check for performance improvements
+   - Reopen browser
+   - Look for speed, fewer popups, etc.
+
+7. Research how malicious extensions can harm users
+   - Search topics like:
+     - "Browser extensions that steal data"
+     - "Malicious Chrome extensions examples"
+
+8. Document steps taken and extensions removed
+   - Example:
+     Extensions Removed:
+     1. 'Fast VPN' - Unknown developer
+     2. 'Video Downloader X' - High permissions, no use
+   - Observed: Improved speed and fewer ads
+
+Include in GitHub Repo:
+- README.md
+- task_7_output.txt
+- task_7_output.html
+- Screenshots (if any)
